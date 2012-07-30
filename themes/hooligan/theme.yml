@@ -1,0 +1,33 @@
+{
+  'stylesheets' : {
+    'default' : [
+      'bootstrap.min.css',
+      'bootstrap-responsive.min.css',
+      'social-buttons/zocial.stripped.css',
+      'pygments.css',
+      'darkstrap.css',
+      'style.css'
+    ],
+
+    'page' : [
+
+    ],
+
+    'post' : [
+
+    ],
+
+    'widgets' : {
+
+    }
+
+  },
+
+  'javascripts' : {
+    'default' : [
+      'jquery.min.js',
+      'bootstrap.min.js'
+    ]
+  }
+
+}
